@@ -7,6 +7,8 @@
 macropad project using pi pico and tactile switches can be found [here](https://www.instructables.com/Infinity-Macro-Pad-Using-Pi-Pico/) <br>
 diy macropad project using pi pico, oled, knob can be found [here](https://www.hackster.io/spin5099/macropad-diy-a5d78e) <br>
 diy macropad using pi pico, oled, rotary encoder, tactile switches and backlight can be found [here](https://www.youtube.com/watch?v=7hYTQY_3xUc)
+diy macropad using pi pico, circuitpython, kmk can be found [here](https://sanderg.nl/en/posts/3d-printed-hand-wired-macro-pad-with-raspberry-pi-pico-kmk-&-circuitpython/)
+entire keyboard using pi pico can be found [here](https://www.tomshardware.com/news/env-kb-raspberry-pi-pico-mechanical-keyboard)
 macropad using xiao rp2040, custom pcb, cherry mx and backlight can be found [here](https://palmacas.com/macroboard-design/) <br>
 macropad using xiao rp2040, custom pcb, neopixel, cherry mx switches can be found [here](https://www.thingiverse.com/thing:6255071) <br>
 6 bit macropad using xiao rp2040, custom pcb can be found [here](https://www.hackster.io/naveenbskumar/6-bit-macropad-33588d)
