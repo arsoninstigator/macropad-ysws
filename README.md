@@ -10,6 +10,7 @@ diy macropad using pi pico, oled, rotary encoder, tactile switches and backlight
 diy macropad using pi pico, circuitpython, kmk can be found [here](https://sanderg.nl/en/posts/3d-printed-hand-wired-macro-pad-with-raspberry-pi-pico-kmk-&-circuitpython/) <br>
 diy macropad using pi pico can be found [here](https://github.com/martinohanlon/pico-rgbkeypad) <br>
 diy macropad using pi pico can be found [here](https://thirtythreedown.com/2022/08/26/pi-pico-macro-key-pad/) <br>
+diy macropad using pi pico, ssd1306 oled screen can be found [here](https://www.codeof.me/pikku-raspberry-pi-pico-powered-macropad/) <br>
 entire keyboard using pi pico can be found [here](https://www.tomshardware.com/news/env-kb-raspberry-pi-pico-mechanical-keyboard) <br>
 macropad using xiao rp2040, custom pcb, cherry mx and backlight can be found [here](https://palmacas.com/macroboard-design/) <br>
 macropad using xiao rp2040, custom pcb, neopixel, cherry mx switches can be found [here](https://www.thingiverse.com/thing:6255071) <br>
